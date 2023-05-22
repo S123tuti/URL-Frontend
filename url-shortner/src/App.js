@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import './App.css';
 import BackgroundAnimate from './BackgroundAnimate';
-import InputShortener from './InputShortener';
+import InputShortener from './InputShortner';
 import LinkResult from './LinkResult';
 
 function App() {
